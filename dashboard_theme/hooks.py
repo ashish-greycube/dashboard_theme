@@ -49,6 +49,9 @@ app_logo_url = "/assets/dashboard_theme/images/dash-logo.svg"
 # website_context = {
 # 	"splash_image": "/assets/dashboard_theme/images/dash-logo.svg"
 # }
+website_context = {
+    "splash_image": "/assets/dashboard_theme/images/dash-logo.svg"
+}
 # Generators
 # ----------
 
