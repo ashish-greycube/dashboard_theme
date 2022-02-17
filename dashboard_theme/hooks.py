@@ -8,7 +8,7 @@ app_icon = "octicon octicon-file-directory"
 app_color = "red"
 app_email = "admin@greycube.in"
 app_license = "MIT"
-
+app_logo_url = "/assets/dashboard_theme/images/dash-logo.svg"
 # Includes in <head>
 # ------------------
 
@@ -46,7 +46,9 @@ app_license = "MIT"
 # role_home_page = {
 #	"Role": "home_page"
 # }
-
+# website_context = {
+# 	"splash_image": "/assets/dashboard_theme/images/dash-logo.svg"
+# }
 # Generators
 # ----------
 
